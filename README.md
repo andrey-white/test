@@ -1,2 +1,2 @@
 Hello, Hexlet!
-Just new text
+How are you?
